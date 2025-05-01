@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Biografi Mahasiswa</string>
+    <string name="name">Nama: Abdurrahman Gilang Harjuna</string>
+    <string name="nim">Nim: 2310817110004</string>
+    <string name="jurusan">Jurusan: Teknologi Informasi</string>
+    <string name="lihat_detail">Lihat Detail</string>
+    <string name="email">Email: 2310817110004@mhs.ulm.ac.id</string>
+    <string name="hobi">Hobi: Membaca, Chalisthenic, Gym</string>
+    <string name="motto">Motto: Mencoba untuk terus belajar dan berkembang walau hanya 1%.</string>
+    <string name="foto_mahasiswa">Foto Diri Mhs</string>
+    <string name="deskripsi">\nHanya seorang laki-laki yang tercebur kedalam dunia IT, tak mengerti, tapi harus mengikuti, akhirnya aku mempunyai tujuan baru yang lumayan percaya diri, yak menjadi seorang web developer. Doakan Bang</string>
+</resources>
