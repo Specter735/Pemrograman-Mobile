@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">ZennFit</string>
+    <string name="desc_benchpress">Bench press adalah salah satu alat dan latihan paling populer dalam dunia kebugaran yang digunakan untuk melatih otot bagian atas tubuh, terutama otot dada (pectoralis major), bahu (deltoid), dan trisep. Latihan ini dilakukan dengan cara berbaring di bangku datar (bench), lalu menekan barbell atau dumbbell ke atas dari posisi dada dan kemudian menurunkannya kembali secara terkontrol.
+
+\n\nBench press sangat efektif untuk meningkatkan kekuatan dan massa otot dada. Tersedia dalam berbagai variasi seperti flat bench press (bangku datar), incline bench press (bangku miring ke atas), dan decline bench press (bangku miring ke bawah), yang masing-masing menargetkan bagian dada yang berbeda.
+
+\n\nManfaat:
+\n-Meningkatkan kekuatan dan volume otot dada.
+\n-Mengembangkan stabilitas bahu dan kekuatan trisep.
+\n-Merupakan bagian penting dari program latihan kekuatan dan pembentukan tubuh bagian atas.
+
+\n\nCara Menggunakan:
+\n-Berbaring di atas bench dengan punggung rata, kaki menapak lantai.
+\n-Pegang barbell dengan grip sedikit lebih lebar dari bahu.
+\n-Angkat barbell dari rak, turunkan perlahan ke dada, lalu dorong kembali ke atas.
+\n-Jaga gerakan tetap terkontrol dan jangan mengunci siku sepenuhnya saat di atas.
+
+\n\nTips Keamanan:
+\n-Gunakan spotter (teman jaga) saat mengangkat beban berat.
+\n-Jangan terlalu melebar dalam memegang barbell agar tidak membebani sendi bahu.
+\n-Panaskan tubuh terlebih dahulu untuk mencegah cedera.
+\n\nVisual Gerakan: </string>
+    <string name="desc_row">Row Cable atau Seated Cable Row Machine adalah alat gym yang dirancang untuk melatih otot-otot punggung, terutama otot latissimus dorsi (lats), rhomboid, trapezius, dan juga melibatkan otot bisep. Alat ini menggunakan sistem katrol (cable) dan beban, memungkinkan gerakan mendayung (rowing motion) dari posisi duduk.
+
+\n\n🧠 Fungsi Utama:
+\n-Melatih otot punggung tengah (middle back)
+\n-Memperkuat otot bisep dan bahu belakang
+\n-Meningkatkan postur tubuh
+\n-Mengembangkan kekuatan dan ketahanan otot punggung
+
+\n\n🛠️ Komponen Utama:
+\n-Tempat duduk (bench): Tempat untuk pengguna duduk saat latihan.
+\n-Footrest/pijakan kaki: Untuk menopang tubuh selama menarik beban.
+\n-Cable system (katrol): Menghubungkan handle ke tumpukan beban.
+\n-Weight stack (beban): Bisa disesuaikan sesuai kemampuan pengguna.
+\n-Handle bar/grip: Umumnya berbentuk V-bar atau straight bar, bisa diganti sesuai variasi latihan.
+
+\n\n🏃‍♂️ Cara Penggunaan:
+\n-Duduk di bangku, kaki ditempatkan di pijakan kaki.
+\n-Pegang handle dengan kedua tangan.
+\n-Jaga punggung tetap tegak dan core aktif.
+\n-Tarik handle ke arah perut bagian bawah sambil menarik siku ke belakang.
+\n-Tahan sebentar, lalu kembalikan perlahan ke posisi awal.
+\n-Ulangi sesuai jumlah repetisi yang diinginkan.
+
+\n\n✅ Tips Penggunaan yang Benar:
+\n-Jangan membungkuk atau melengkungkan punggung saat menarik.
+\n-Gunakan beban yang sesuai agar tidak mengorbankan teknik.
+\n-Jaga gerakan tetap terkendali (hindari hentakan).
+\n-Fokus pada kontraksi otot punggung saat menarik.
+
+\n\n⚠️ Kesalahan Umum:
+\n-Menarik beban terlalu berat hingga postur rusak.
+\n-Menggunakan momentum, bukan otot punggung.
+\n-Tidak mengunci bahu ke bawah saat menarik.
+\n-Membungkukkan badan ke depan saat kembali ke posisi awal.
+\n\nVisual Gerakan:</string>
+    <string name="desc_shoulder">Shoulder Press Machine adalah alat gym yang dirancang untuk melatih otot bahu dengan gerakan menekan ke atas (overhead pressing). Alat ini meniru gerakan dumbbell shoulder press atau barbell overhead press, tetapi dengan dukungan mesin untuk stabilitas dan keamanan. Gerakan ini dilakukan dari posisi duduk sambil mendorong handle ke atas di atas kepala.
+
+\n\n🧠 Fungsi Utama:
+\n-Menguatkan otot bahu (deltoid)
+\n-Melibatkan triceps sebagai otot bantu
+\n-Menstabilkan otot bagian atas tubuh
+\n-Cocok untuk pemula karena aman dan mudah dikontrol
+
+\n\n🛠️ Komponen Utama:
+\n-Tempat duduk (adjustable seat): Bisa diatur agar posisi handle sejajar dengan bahu pengguna.
+\n-Backrest (sandaran): Mendukung punggung agar tetap stabil selama latihan.
+\n-Handle bar: Tempat tangan mendorong beban ke atas. Bisa lurus atau berbentuk ergonomis.
+\n-Weight stack (beban): Sistem beban yang dapat diatur dengan pin selector.
+\n-Cushion padding: Untuk kenyamanan saat bersandar dan duduk.
+
+\n\n🏃‍♂️ Cara Penggunaan:
+\n-Atur kursi agar handle sejajar dengan bahu.
+\n-Duduk tegak dengan punggung bersandar pada sandaran.
+\n-Pegang handle dengan telapak tangan menghadap ke depan (overhand grip).
+\n-Dorong handle ke atas sampai lengan hampir lurus, tapi jangan kunci siku.
+\n-Perlahan turunkan kembali ke posisi awal.
+\n-Ulangi sesuai repetisi yang diinginkan.
+
+\n\n✅ Tips Penggunaan yang Benar:
+\n-Jaga punggung tetap menempel di sandaran.
+\n-Hindari mengangkat bahu saat mendorong ke atas.
+\n-Jangan kunci siku di atas (untuk menghindari cedera).
+\n-Kontrol beban saat naik dan turun.
+
+\n\n⚠️ Kesalahan Umum:
+\n-Duduk terlalu rendah atau tinggi (handle tidak sejajar bahu).
+\n-Menekuk pergelangan tangan saat mendorong.
+\n-Menggunakan beban terlalu berat hingga mengorbankan teknik.
+\n-Mengangkat pinggul dari kursi untuk membantu mendorong.
+\n\nVisual Gerakan:</string>
+
+    <string name="desc_legpress">Leg Press Machine adalah alat gym yang dirancang khusus untuk melatih otot bagian bawah tubuh, terutama otot paha, betis, dan bokong. Alat ini memungkinkan pengguna untuk mendorong beban dengan kaki sambil duduk atau berbaring pada posisi tertentu. Leg press menawarkan gerakan menekan beban menjauh dari tubuh menggunakan kedua kaki, mirip dengan gerakan squat, namun dengan dukungan lebih baik untuk punggung dan postur tubuh.
+
+\n\n🧠 Fungsi Utama:
+\n-Mengembangkan kekuatan otot kaki dan glutes
+\n-Alternatif atau pelengkap latihan barbell squat
+\n-Melatih otot secara isolasi dengan aman
+\n-Cocok untuk pemula hingga atlet berpengalaman
+
+\n\n🛠️ Komponen Utama:
+\n-Tempat duduk (adjustable seat): Dapat disesuaikan agar tubuh nyaman dan punggung terlindungi.
+\n-Footplate (pijakan kaki): Tempat menekan beban dengan kaki; biasanya lebar dan miring.
+\n-Beban (weight stack atau plate-loaded):
+\n-Weight stack: Menggunakan pin selector.
+\n-Plate-loaded: Menggunakan piringan beban (barbell plate).
+\n-Pegangan tangan (grip): Menstabilkan tubuh saat mendorong.
+\n-Sistem rel atau engsel: Membantu footplate bergerak dengan lancar dan aman.
+
+\n\n🏃‍♂️ Cara Penggunaan:
+\n-Duduk atau berbaring dengan punggung menempel penuh pada sandaran.
+\n-Letakkan kaki di footplate, selebar bahu.
+\n-Tekuk lutut sekitar 90° (jangan terlalu dalam untuk hindari tekanan berlebih).
+\n-Dorong footplate menjauh hingga kaki hampir lurus (jangan kunci lutut).
+\n-Perlahan turunkan kembali ke posisi awal.
+\n-Ulangi sesuai target repetisi.
+
+\n\n✅ Tips Penggunaan yang Benar:
+\n-Pastikan punggung dan bokong selalu menempel pada sandaran.
+\n-Jangan meluruskan lutut sepenuhnya (kunci lutut bisa sebabkan cedera).
+\n-Atur posisi kaki sesuai target otot (lihat variasi di bawah).
+\n-Gunakan gerakan terkontrol, tidak meledak-ledak.
+
+\n\n⚠️ Kesalahan Umum:
+\n-Menekuk lutut terlalu dalam hingga pinggul terangkat (risiko cedera punggung bawah).
+\n-Melepas genggaman tangan dari pegangan.
+\n-Kaki terlalu sempit atau terlalu lebar tanpa tujuan spesifik.
+\n-Mengangkat tumit saat mendorong footplate.
+\n\nVisual Gerakan:</string>
+
+    <string name="desc_fly">Fly Machine atau Pec Deck Machine adalah alat gym yang dirancang khusus untuk melatih otot dada, terutama bagian pectoral major (otot dada besar). Gerakan yang dilakukan menyerupai gerakan "memeluk", di mana lengan ditarik ke arah depan dan tengah dari posisi terbuka ke samping. Alat ini memberikan isolasi otot dada yang tinggi karena tubuh tertopang secara stabil oleh kursi dan sandaran.
+
+\n\n🧠 Fungsi Utama:
+\n-Mengembangkan massa dan definisi otot dada (khususnya bagian dalam)
+\n-Melatih otot dada secara terisolasi tanpa bantuan otot sekunder yang dominan
+\n-Cocok untuk pemula karena mudah digunakan dan aman
+\n-Membantu memperbaiki keseimbangan otot dada dan bentuk estetika
+
+\n\n🛠️ Komponen Utama:
+\n-Tempat duduk (adjustable seat): Bisa diatur agar handle sejajar dengan dada.
+\n-Backrest (sandaran): Menopang punggung dan mencegah gerakan tubuh yang tidak perlu.
+\n-Handle arm (lengan ayun): Tempat pegangan untuk tangan, digerakkan dari samping ke depan.
+\n-Weight stack (beban): Digunakan untuk mengatur tingkat resistensi (biasanya dengan pin selector).
+\n-Pegangan tangan (handle grips): Tempat pengguna memegang saat latihan.
+\n-Pad lengan (pada beberapa versi): Menopang lengan bawah saat bergerak.
+
+\n\n🏃‍♂️ Cara Penggunaan:
+\n-Atur tinggi kursi agar lengan sejajar dengan dada saat memegang handle.
+\n-Duduk dengan punggung tegak menempel ke sandaran.
+\n-Pegang handle dengan kedua tangan, lengan sedikit menekuk.
+\n-Tarik kedua lengan ke depan hingga hampir menyatu di depan dada.
+\n-Perlahan kembalikan ke posisi awal dengan gerakan terkendali.
+\n-Ulangi sesuai jumlah repetisi.
+
+\n\n✅ Tips Penggunaan yang Benar:
+\n-Jaga siku sedikit menekuk, jangan sampai lurus total.
+\n-Jangan dorong terlalu cepat atau membiarkan handle kembali dengan hentakan.
+\n-Fokus pada kontraksi otot dada saat lengan mendekat.
+\n-Jangan gerakkan bahu terlalu banyak (biarkan dada yang bekerja).
+
+\n\n⚠️ Kesalahan Umum:
+\n-Menggunakan momentum untuk mengayun handle.
+\n-Membiarkan beban kembali terlalu cepat (tanpa kontrol).
+\n-Kursi tidak disetel dengan benar sehingga posisi lengan terlalu rendah atau tinggi.
+\n-Menekuk siku terlalu tajam seperti gerakan pressing, bukan fly.
+
+\n\n🔄 Variasi Latihan:
+\n-Reverse Pec Deck: Duduk menghadap alat dan lakukan gerakan ke arah belakang — ini melatih otot bahu belakang (rear delts).
+\n-Single-arm fly: Melatih otot dada secara unilateral dan meningkatkan keseimbangan kekuatan.
+\n-Incline fly machine (jika tersedia): Menargetkan bagian atas dada lebih spesifik.
+
+\n\n🎯 Manfaat Fly Machine:
+\n-Mempertegas dan membentuk garis tengah otot dada
+\n-Memberi alternatif selain dumbbell fly yang membutuhkan stabilisasi lebih tinggi
+\n-Lebih aman untuk pemula dan orang dengan cedera ringan
+\n-Cocok untuk tahap akhir (finisher) dalam latihan dada
+\n\nVisual Gerakan:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
