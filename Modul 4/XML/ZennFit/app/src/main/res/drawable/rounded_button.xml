@@ -1,0 +1,14 @@
+<!-- res/drawable/rounded_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="#6200EE" /> <!-- warna latar tombol -->
+
+    <corners android:radius="60dp" /> <!-- radius sudut tombol -->
+
+    <padding
+        android:left="16dp"
+        android:top="10dp"
+        android:right="16dp"
+        android:bottom="10dp" />
+</shape>
