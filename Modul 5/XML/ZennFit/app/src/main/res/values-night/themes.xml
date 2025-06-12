@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ZennFit" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary_blue</item> <item name="colorPrimaryVariant">@color/black</item> <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/secondary_teal</item>
+        <item name="colorSecondaryVariant">@color/secondary_teal_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <item name="android:colorBackground">@color/black</item>
+        <item name="colorSurface">#FF121212</item>
+        <item name="colorOnSurface">@color/white</item>
+
+        <item name="android:statusBarColor">@color/black</item>
+
+    </style>
+
+    <style name="Theme.ZennFit" parent="Base.Theme.ZennFit" />
+</resources>
